@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Fire
+  - Exit
+  - Fuel
   layers:
   - Default
   - TransparentFX
