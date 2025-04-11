@@ -7,8 +7,7 @@ public class FuelSystem : MonoBehaviour
     public float currentFuel;
     public float fuelDrainRate = 1f;
 
-    public Image fuelBarFill; // Assign in inspector
-
+    public Image fuelBarFill;
     private bool isSpraying => Input.GetMouseButton(0);
 
     void Start()

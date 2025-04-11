@@ -5,7 +5,7 @@ public class PlayerThrust : MonoBehaviour
     public float thrustForce = 15f;
     public float drag = 1.5f;
     public float gravityScale = 0.3f;
-    public ParticleSystem sprayParticles; // assign in Inspector
+    public ParticleSystem sprayParticles; 
 
     private Rigidbody2D rb;
 

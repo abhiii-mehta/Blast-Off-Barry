@@ -7,7 +7,6 @@ public class ExitTrigger : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Level Complete!");
-            // Optional: SceneManager.LoadScene("NextLevel");
         }
     }
 }

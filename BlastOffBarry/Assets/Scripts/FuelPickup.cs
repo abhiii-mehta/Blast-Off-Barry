@@ -14,7 +14,6 @@ public class FuelPickup : MonoBehaviour
                 fuelSystem.AddFuel(fuelAmount);
             }
 
-            // Optional: particle, sound, etc.
             Destroy(gameObject);
         }
     }
