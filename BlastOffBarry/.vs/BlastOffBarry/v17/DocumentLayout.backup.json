@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\sprayzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprayzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\playerthruster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerthruster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SprayZone.cs",
+              "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\SprayZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SprayZone.cs",
+              "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\SprayZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SprayZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:56:29.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExtinguisherController.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExtinguisherController.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ExtinguisherController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T10:30:39.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T10:30:39.763Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerThruster.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\PlayerThruster.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerThruster.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T10:28:09.32Z",
               "EditorCaption": ""
