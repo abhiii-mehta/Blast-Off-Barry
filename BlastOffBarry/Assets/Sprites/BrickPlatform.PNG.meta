@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 51fb609435ef7414888c817bda6eb34a
+guid: be8d921e5630cb64eab8d40df7abb40e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2258569233401855600
-    second: HeavyCrate 1_0
+      213: -7343449532434127763
+    second: IMG_0454_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HeavyCrate 1_0
+      name: IMG_0454_0
       rect:
         serializedVersion: 2
-        x: 104
-        y: 119
-        width: 828
-        height: 781
+        x: 94
+        y: 391
+        width: 833
+        height: 207
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 091c476af33f7a0e0800000000000000
-      internalID: -2258569233401855600
+      spriteID: d646149be83d61a90800000000000000
+      internalID: -7343449532434127763
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IMG_0454_0: -7343449532434127763
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

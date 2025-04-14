@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: be431f1c9ec156348893e2262088da32
+guid: 1cd4d442be7e7484baa4f8c4e1e40a01
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6295086791371540077
-    second: LightCrate 1_0
+      213: -404831464305871985
+    second: IMG_0451_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LightCrate 1_0
+      name: IMG_0451_0
       rect:
         serializedVersion: 2
         x: 147
         y: 149
         width: 738
-        height: 713
+        height: 712
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 399bb028aeb53a8a0800000000000000
-      internalID: -6295086791371540077
+      spriteID: f83b5289defb16af0800000000000000
+      internalID: -404831464305871985
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IMG_0451_0: -404831464305871985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
