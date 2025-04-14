@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\playerthruster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T19:20:41.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T19:20:41.837Z"
             },
             {
               "$type": "Document",
@@ -75,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FuelSystem.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\FuelSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FuelSystem.cs",
@@ -87,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Fire.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\Fire.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fire.cs",
@@ -99,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ExitTrigger.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExitTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExitTrigger.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExitTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\ExitTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:06:32.164Z"
+              "WhenOpened": "2025-04-11T13:06:32.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ExtinguisherController.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExtinguisherController.cs",
@@ -143,8 +143,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ExtinguisherController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T10:30:39.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T10:30:39.763Z"
             },
             {
               "$type": "Document",
