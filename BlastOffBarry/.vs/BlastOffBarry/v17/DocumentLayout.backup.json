@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\levelintrotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelintrotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "LevelIntroText.cs",
+              "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\LevelIntroText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelIntroText.cs",
+              "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\LevelIntroText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelIntroText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:29:12.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PersistentMusic.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\PersistentMusic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentMusic.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GameOutcomeManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\GameOutcomeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOutcomeManager.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OutcomeManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\OutcomeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OutcomeManager.cs",
@@ -110,20 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InGameMenuManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\InGameMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InGameMenuManager.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\InGameMenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\InGameMenuManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAIBQwDEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T01:19:30.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CrateSoundPlayer.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\CrateSoundPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CrateSoundPlayer.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExtinguisherSoundPlayer.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherSoundPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExtinguisherSoundPlayer.cs",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
@@ -159,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FuelPickup.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\FuelPickup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FuelPickup.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FuelSystem.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\FuelSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FuelSystem.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Fire.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\Fire.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fire.cs",
@@ -191,12 +208,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Fire.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:06:42.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T13:06:42.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ExitTrigger.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExitTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExitTrigger.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
@@ -220,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SprayZone.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\SprayZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SprayZone.cs",
@@ -232,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ExtinguisherController.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExtinguisherController.cs",
@@ -244,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PlayerThruster.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\PlayerThruster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerThruster.cs",
