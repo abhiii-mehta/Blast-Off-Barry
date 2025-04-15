@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\outcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\outcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\gameoutcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoutcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|d:\\suse25\\gameaweek\\abhi_physics\\blastoffbarry\\assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\fuelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fuelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\cratesoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cratesoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\extinguishersoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishersoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\fuelpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fuelpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\extinguishersoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishersoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\cratesoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cratesoundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\outcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\outcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\gameoutcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoutcomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\persistentmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\playerthruster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\assets\\scripts\\fuelpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D053F9-BD70-CF38-FAD2-5C70286A0A43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fuelpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +70,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "PersistentMusic.cs",
+              "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\PersistentMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentMusic.cs",
+              "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\PersistentMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:23:14.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GameOutcomeManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\GameOutcomeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOutcomeManager.cs",
@@ -78,73 +94,72 @@
               "RelativeToolTip": "Assets\\Scripts\\GameOutcomeManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T01:27:23.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T01:27:23.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "OutcomeManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\OutcomeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OutcomeManager.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\OutcomeManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\OutcomeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T01:26:42.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T01:26:42.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "InGameMenuManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\InGameMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InGameMenuManager.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\InGameMenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\InGameMenuManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T01:19:30.205Z"
+              "WhenOpened": "2025-04-15T01:19:30.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CrateSoundPlayer.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\CrateSoundPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CrateSoundPlayer.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\CrateSoundPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\CrateSoundPlayer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T00:20:28.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ExtinguisherSoundPlayer.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherSoundPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExtinguisherSoundPlayer.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherSoundPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\ExtinguisherSoundPlayer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T00:14:35.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\MenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T19:20:41.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "FuelPickup.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\FuelPickup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FuelPickup.cs",
@@ -156,32 +171,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FuelSystem.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\FuelSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FuelSystem.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\FuelSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\FuelSystem.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA0wCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:19:29.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T13:19:29.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Fire.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\Fire.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fire.cs",
               "ToolTip": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\Fire.cs",
               "RelativeToolTip": "Assets\\Scripts\\Fire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:06:42.327Z"
+              "WhenOpened": "2025-04-11T13:06:42.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ExitTrigger.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExitTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExitTrigger.cs",
@@ -189,12 +204,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ExitTrigger.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T13:06:32.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T13:06:32.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
@@ -206,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SprayZone.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\SprayZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SprayZone.cs",
@@ -218,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ExtinguisherController.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\ExtinguisherController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExtinguisherController.cs",
@@ -230,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PlayerThruster.cs",
               "DocumentMoniker": "D:\\SuSe25\\GameAWeek\\abhi_physics\\BlastOffBarry\\Assets\\Scripts\\PlayerThruster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerThruster.cs",
