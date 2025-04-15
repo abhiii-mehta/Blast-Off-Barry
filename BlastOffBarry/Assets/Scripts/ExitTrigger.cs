@@ -7,14 +7,25 @@ public class ExitTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Level Complete! Loading next level...");
-            LoadNextLevel();
-        }
-    }
+            // Mark the player as having reached the exit
+            FuelSystem fuelSystem = other.GetComponent<FuelSystem>();
+            if (fuelSystem != null)
+            {
+                fuelSystem.reachedExit = true;
+            }
 
-    void LoadNextLevel()
-    {
-        int currentIndex = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene(currentIndex + 1);
+            // Check if it's the final level
+            if (SceneManager.GetActiveScene().name == "Level05")
+            {
+                GameOutcomeManager.lastOutcome = GameOutcomeManager.Outcome.Victory;
+                SceneManager.LoadScene("Outcome");
+            }
+            else
+            {
+                // Load next level
+                int currentIndex = SceneManager.GetActiveScene().buildIndex;
+                SceneManager.LoadScene(currentIndex + 1);
+            }
+        }
     }
 }

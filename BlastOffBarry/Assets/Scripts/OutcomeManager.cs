@@ -1,27 +1,31 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class InGameMenuManager : MonoBehaviour
+public class OutcomeManager : MonoBehaviour
 {
     public GameObject gameOverPanel;
     public GameObject victoryPanel;
 
-    public void ShowGameOver()
+    void Start()
     {
-        gameOverPanel.SetActive(true);
         Time.timeScale = 0f;
-    }
 
-    public void ShowVictory()
-    {
-        victoryPanel.SetActive(true);
-        Time.timeScale = 0f;
+        Debug.Log("Game Outcome: " + GameOutcomeManager.lastOutcome); //  Debug line
+
+        if (GameOutcomeManager.lastOutcome == GameOutcomeManager.Outcome.Victory)
+        {
+            victoryPanel.SetActive(true);
+        }
+        else
+        {
+            gameOverPanel.SetActive(true);
+        }
     }
 
     public void RestartGame()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene("Level01");
     }
 
     public void ReturnToMainMenu()

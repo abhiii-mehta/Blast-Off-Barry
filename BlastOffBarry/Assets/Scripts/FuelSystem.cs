@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class FuelSystem : MonoBehaviour
 {
@@ -9,6 +10,9 @@ public class FuelSystem : MonoBehaviour
 
     public Image fuelBarFill;
     private bool isSpraying => Input.GetMouseButton(0);
+
+    public bool reachedExit = false;
+    private bool triggeredOutcome = false;
 
     void Start()
     {
@@ -24,6 +28,13 @@ public class FuelSystem : MonoBehaviour
         }
 
         UpdateFuelBar();
+        if (currentFuel <= 0f && !reachedExit && !triggeredOutcome)
+        {
+            triggeredOutcome = true;
+            GameOutcomeManager.lastOutcome = GameOutcomeManager.Outcome.GameOver;
+            SceneManager.LoadScene("Outcome");
+        }
+
     }
 
     void UpdateFuelBar()
