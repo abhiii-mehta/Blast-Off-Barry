@@ -617,8 +617,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Use thrusters to move. Extinguish fires. Reach the exit before fuel runs
-    out
+  m_text: Hold LMB (thrusters) to move. Extinguish fires. Reach the exit before fuel
+    runs out
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 40b9f09ac552ca5468d1d6abfabe976b, type: 2}
   m_sharedMaterial: {fileID: -4508179429317897794, guid: 40b9f09ac552ca5468d1d6abfabe976b, type: 2}
