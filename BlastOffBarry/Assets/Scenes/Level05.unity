@@ -594,6 +594,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: PausePanelCanvas 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2055860506603971831, guid: 954ca68cd99a22e4793595b89397f954, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1517330930}
+    - target: {fileID: 2055860506603971831, guid: 954ca68cd99a22e4793595b89397f954, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ReturnToMainMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208735512672059030, guid: 954ca68cd99a22e4793595b89397f954, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1517330930}
+    - target: {fileID: 5208735512672059030, guid: 954ca68cd99a22e4793595b89397f954, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RestartGame
+      objectReference: {fileID: 0}
     - target: {fileID: 5783877271797450661, guid: 954ca68cd99a22e4793595b89397f954, type: 3}
       propertyPath: m_Pivot.x
       value: 0
