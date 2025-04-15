@@ -293,6 +293,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7239903350937765318, guid: 659d2e78d72754f4a85c320615910a13, type: 3}
+      propertyPath: m_Volume
+      value: 0.4
+      objectReference: {fileID: 0}
     - target: {fileID: 1505997157314299175, guid: 659d2e78d72754f4a85c320615910a13, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -690,6 +694,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5721692697168453769, guid: 718c6f10bf6e3e84da27e1687e123656, type: 3}
+      propertyPath: m_Volume
+      value: 0.32
+      objectReference: {fileID: 0}
     - target: {fileID: 7441625452796322310, guid: 718c6f10bf6e3e84da27e1687e123656, type: 3}
       propertyPath: m_Name
       value: LightCrate (2)
@@ -713,7 +721,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -371181935144355530, guid: ca002c8a84f79f943a4ee3f96ca631e1, type: 3}
       propertyPath: m_Volume
-      value: 0.16
+      value: 0.14
       objectReference: {fileID: 0}
     - target: {fileID: 7733724624498649909, guid: ca002c8a84f79f943a4ee3f96ca631e1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1234,7 +1242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5530809565824262514, guid: 837b0596380b9f74cbf9c3db7021bf65, type: 3}
       propertyPath: thrustForce
-      value: 30
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 7034796247698042744, guid: 837b0596380b9f74cbf9c3db7021bf65, type: 3}
       propertyPath: fuelBarFill

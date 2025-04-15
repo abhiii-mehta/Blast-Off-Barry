@@ -8,17 +8,17 @@ public class ExtinguisherSoundPlayer : MonoBehaviour
     void Start()
     {
         extinguisherAudio = GetComponent<AudioSource>();
-        extinguisherAudio.loop = true; // Keep looping while LMB is held
+        extinguisherAudio.loop = true;
     }
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0)) // LMB Pressed
+        if (Input.GetMouseButtonDown(0)) 
         {
             if (!extinguisherAudio.isPlaying)
                 extinguisherAudio.Play();
         }
-        else if (Input.GetMouseButtonUp(0)) // LMB Released
+        else if (Input.GetMouseButtonUp(0)) 
         {
             extinguisherAudio.Stop();
         }

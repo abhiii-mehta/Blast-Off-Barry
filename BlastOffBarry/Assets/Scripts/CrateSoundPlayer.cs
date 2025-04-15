@@ -3,7 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(AudioSource))]
 public class CrateSoundPlayer : MonoBehaviour
 {
-    public float movementThreshold = 0.1f; // Minimum velocity to trigger sound
+    public float movementThreshold = 0.1f;
     private Rigidbody2D rb;
     private AudioSource crateAudio;
 

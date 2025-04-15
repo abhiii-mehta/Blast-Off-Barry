@@ -10,7 +10,7 @@ public class OutcomeManager : MonoBehaviour
     {
         Time.timeScale = 0f;
 
-        Debug.Log("Game Outcome: " + GameOutcomeManager.lastOutcome); //  Debug line
+        Debug.Log("Game Outcome: " + GameOutcomeManager.lastOutcome);
 
         if (GameOutcomeManager.lastOutcome == GameOutcomeManager.Outcome.Victory)
         {

@@ -1429,6 +1429,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1023850541260293434, guid: d862fe7030316834b885650685261921, type: 3}
+      propertyPath: maxFuel
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1023850541260293434, guid: d862fe7030316834b885650685261921, type: 3}
       propertyPath: fuelBarFill
       value: 
       objectReference: {fileID: 677829942}
@@ -1582,6 +1586,10 @@ PrefabInstance:
       objectReference: {fileID: 309722005}
     - target: {fileID: 8018498117497462827, guid: d862fe7030316834b885650685261921, type: 3}
       propertyPath: offsetDistance
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8266493496387529496, guid: d862fe7030316834b885650685261921, type: 3}
+      propertyPath: thrustForce
       value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents:
