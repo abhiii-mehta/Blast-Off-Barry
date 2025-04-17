@@ -28,8 +28,12 @@ public class MenuManager : MonoBehaviour
 
     public void LoadLevel(string levelName)
     {
-        SceneManager.LoadScene(levelName);
+        if (Application.CanStreamedLevelBeLoaded(levelName))
+            SceneManager.LoadScene(levelName);
+        else
+            Debug.LogWarning("Scene '" + levelName + "' not found in Build Settings!");
     }
+
 
     public void ExitGame()
     {
